@@ -1,2 +1,2 @@
-# programming
-Programming Pratice
+# Programming
+Praticing various programming skills.
